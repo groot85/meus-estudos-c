@@ -15,7 +15,7 @@ Aprendendo e explorando C — exercícios de revisão e fixação com base nas a
 * **Compilador:** GCC (via MSYS2 / UCRT64)
 * **Controle de Versão:** Git & GitHub
 
-## 📁 Como está organizadoS
+## 📁 Como está organizado
 
 Cada pasta neste repositório representa uma etapa ou assunto específico das aulas, contendo os arquivos de código-fonte (`.c`). Os arquivos executáveis (`.exe`) são ignorados automaticamente para manter o ambiente limpo.
 
